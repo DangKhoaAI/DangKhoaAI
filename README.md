@@ -10,8 +10,7 @@
   - [**Multimodal XAI Medical Application**](https://github.com/DangKhoaAI/multimodal_xai_medical)
   - [**Graph Based Hand Sign Recognition**](https://github.com/DangKhoaAI/graph_isr)
 
-- 📁 Explore all of my projects at [**github.com/DangKhoaAI**](https://github.com/DangKhoaAI/)
-- 📄 Know about my experiences: [**Curriculum Vitae**](https://dangkhoaai.github.io/cv/)
+- 📁 Explore all of my projects at [**github.com/DangKhoaAI**](https://github.com/DangKhoaAI?tab=repositories)
 
 
 <h3 align="left">Connect with me:</h3>
